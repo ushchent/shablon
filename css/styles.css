@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+header, footer {
+    background: #2A2F4E;
+}
+main {
+    margin-left: 3em;
+    width: 80%;
+}
+footer {
+    margin-top: 1em;
+}
+footer p {
+    padding: 1em 2em;
+    font-size: .8em;
+    color: white;
+}
+footer a {
+    color: white;
+}
